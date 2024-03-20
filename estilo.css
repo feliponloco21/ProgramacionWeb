@@ -1,10 +1,15 @@
 .titulos{
     text-align: center;
-    color: purple;
+    color: hsl(300, 98%, 18%);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 p{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 17px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+body {
+    
 }
