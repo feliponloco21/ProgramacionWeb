@@ -1,4 +1,13 @@
+body{
+    background-image: url('https://media.istockphoto.com/id/1196531726/es/foto/azul-azul-turquesa-abstracto-acuarela-fondo-para-texturas-fondos-y-dise%C3%B1o-de-banners-web.jpg?s=612x612&w=0&k=20&c=1OzMtVW0KMI2g3p6nlxNW8c-IbJyhhn0aowjtiHy4Zw=');
+}
+
+.parrafos{
+    margin-bottom: 20px;
+}
+
 .titulos{
+    margin-top: 20px;
     text-align: center;
     color: hsl(300, 98%, 18%);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -10,6 +19,8 @@ p{
     color: black;
 }
 
-body {
-    
+#menu{
+    color: blue;
+    width: 20vw;
+    height: 20%;
 }
